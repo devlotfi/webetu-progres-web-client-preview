@@ -1,7 +1,7 @@
 <img height="100px" width="100px" src="https://github.com/devlotfi/webetu-progres-web-client-preview/blob/main/github-assets/logo.svg">
 
 # 📜 Webetu Progres (Web Client Preview) {Unofficial}
-The goal of this repository is to use the existing api used by the preogres mobile app to create a web based client
+The goal of this repository is to use the existing api used by the preogres mobile app to create a web based client, this app supports light/dark theme and multiple languages English/French/Arabic
 
 **NOTES:**
 - This is only a preview and it **does not contain any code**, the actual code is stored in a private repo for the moment
