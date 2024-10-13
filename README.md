@@ -6,7 +6,7 @@ The goal of this repository is to use the existing api used by the preogres mobi
 
 **NOTES:**
 
-- This is only a preview and it **does not contain any code**, the actual code is stored in a private repo for the moment
+- This repository is only a presentation and `it does not contain any code`, the actual code is stored in a private repo for the moment
 - This repository is unofficial and is not always up to date with the official API
 - This repository was only made for educational purposes and was not intended to cause any dammage to the Webetu progres services
 - The client may not cover all the features of the app
